@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: microservice2
+
+server:
+  port: 8082
+
+message: "Message from microservice2 Git config (prod profile), not hardcoded."
