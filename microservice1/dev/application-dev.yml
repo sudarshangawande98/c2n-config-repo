@@ -27,7 +27,7 @@ logging:
     root: INFO
     com.example: DEBUG
 
-message: "Message from Microservice1 Git config (dev profile), not hardcoded.change"
+message: "Message from Microservice1 Git config (dev profile), not hardcoded.change1"
 
 management:
   endpoints:
