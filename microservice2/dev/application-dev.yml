@@ -5,4 +5,4 @@ spring:
 server:
   port: 8082
 
-message: "Message from microservice2 Git config (dev profile), not hardcoded."
+message: "Message from microservice2 Git config (dev profile), not hardcoded.1"
