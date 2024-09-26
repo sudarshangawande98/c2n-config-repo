@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: c2n-margin-service
+
+server:
+  port: 8081
+
+message: "c2n-config-repo for c2n-margin-service(for dev profile)"

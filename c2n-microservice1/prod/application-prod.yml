@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: c2n-microservice1
-
-server:
-  port: 8081
-
-message: "c2n-config-repo for c2n-microservice1(prod profile)"
