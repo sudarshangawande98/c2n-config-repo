@@ -5,4 +5,4 @@ spring:
 server:
   port: 8082
 
-message: "c2n-config-repo for c2n-cim-service(for dev profile)"
+message: "c2n-config-repo for cim-service-config(for dev profile)"

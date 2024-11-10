@@ -5,4 +5,4 @@ spring:
 server:
   port: 8081
 
-message: "c2n-config-repo for c2n-margin-service(for prod profile)"
+message: "c2n-config-repo for margin-service-config(for dev profile)"
