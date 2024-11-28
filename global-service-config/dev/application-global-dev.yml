@@ -1,6 +1,6 @@
 spring:
   application:
-    name: global-service
+    name: global-config
 
 server:
   port: 8088
