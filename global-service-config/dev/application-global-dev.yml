@@ -6,3 +6,6 @@ server:
   port: 8088
 
 message: "c2n-config-repo for global-service-config(for dev profile)"
+
+custom:
+  property: global-specific-dev
