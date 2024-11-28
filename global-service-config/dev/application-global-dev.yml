@@ -1,11 +1,6 @@
 spring:
   application:
-    name: global-config
-
-server:
-  port: 8088
-
-message: "c2n-config-repo for global-service-config(for dev profile)"
+    name: global-service-config
 
 custom:
-  property: global-specific-dev
+  property: "This is a global configuration for the dev profile"
