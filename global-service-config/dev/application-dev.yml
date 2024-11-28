@@ -4,3 +4,5 @@ spring:
 
 custom:
   property: "This is a global configuration for the dev profile"
+
+message: "c2n-config-repo for global-service-config(for dev profile)"
