@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: c2n-margin-service
+
+server:
+  port: 8089
+
+message: "c2n-config-repo for global-service-config(for prod profile)"

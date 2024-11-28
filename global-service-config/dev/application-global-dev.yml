@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: global-service
+
+server:
+  port: 8088
+
+message: "c2n-config-repo for global-service-config(for dev profile)"
