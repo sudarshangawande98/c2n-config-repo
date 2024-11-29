@@ -1,8 +1,9 @@
 spring:
   application:
-    name: c2n-margin-service
+    name: margin-service-config
 
 server:
-  port: 8081
+  port: 8083
 
-message: "c2n-config-repo for margin-service-config(for prod profile)"
+# Custom message for identifying the environment and service
+message: "margin-service-config of c2n team (dev environment)"
