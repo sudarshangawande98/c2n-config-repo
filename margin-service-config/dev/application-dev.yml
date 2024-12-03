@@ -6,4 +6,3 @@ server:
   port: 8082
 
 # Custom message for identifying the environment and service
-message: "margin-service-config of c2n team (dev environment)"
