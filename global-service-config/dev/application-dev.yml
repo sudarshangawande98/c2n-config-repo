@@ -6,4 +6,4 @@ server:
   port: 8081
 
 # Custom global message for services accessing this config
-message: "Global configuration for c2n-service-config (dev environment)"
+# message: "Global configuration for c2n-service-config (dev environment)"
