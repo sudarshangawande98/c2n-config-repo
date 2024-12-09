@@ -6,3 +6,4 @@ server:
   port: 8082
 
 # Custom message for identifying the environment and service
+message: "Global configuration for c2n-service-config (dev environment)"
