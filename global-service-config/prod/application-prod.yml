@@ -2,8 +2,5 @@ spring:
   application:
     name: global-service-config
 
-server:
-  port: 8081
-
 # Custom global message for services accessing this config
 message: "Global configuration for c2n-service-config (prod environment)"    
